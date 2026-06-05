@@ -1,5 +1,4 @@
-! Title: Huge AI Blocklist
-! Expires: 1 day
+! Title: Ecosia AI Blocklist
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 !
