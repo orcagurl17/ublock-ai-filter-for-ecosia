@@ -1,4 +1,4 @@
-! Title: Ecosia AI Blocklist
+! Title: AI Blocklist for Ecosia
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 !
